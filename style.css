@@ -1,0 +1,52 @@
+* {
+    font-family: garamond;
+}
+
+body {
+    background-color: lightpink;
+    margin: 0px;
+    padding: 50px 60px;
+    color: black; 
+    opacity: 100;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+
+h2 {
+    text-align: center;
+}
+#copyright {
+    color: blueviolet;
+}
+
+h3 {
+    color:darkcyan; 
+    border: 1px solid green;
+    
+}
+
+.videos {
+    border: blue; 
+    margin: auto; 
+    position: relative;
+    left: 300px; 
+}
+
+a {
+    color: blue; 
+    text-decoration: none;
+}
+
+
+.links a:hover{
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+ul li {
+    list-style: square;
+}
