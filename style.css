@@ -2,6 +2,7 @@
     font-family: garamond;
 }
 
+
 body {
     background-color: lightpink;
     margin: 0px;
@@ -26,6 +27,8 @@ h2 {
 h3 {
     color:darkcyan; 
     border: 1px solid green;
+    text-align: center;
+    font-size: 25px;
     
 }
 
@@ -47,6 +50,13 @@ a {
     text-decoration: underline;
 }
 
+
 ul li {
     list-style: square;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 20px;
 }
