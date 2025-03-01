@@ -1,5 +1,17 @@
 * {
-    font-family: garamond;
+    font-family: "Myfont-Regular";
+}
+
+@font-face {
+
+    font-family: Myfont-Regular;
+  
+    src: url('Myfont-Regular.ttf');
+  
+    font-weight: normal;
+  
+    font-style: normal;
+  
 }
 
 
