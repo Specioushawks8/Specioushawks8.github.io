@@ -32,6 +32,7 @@ h1 {
 h2 {
     text-align: center;
 }
+
 #copyright {
     color: blueviolet;
 }
@@ -73,3 +74,9 @@ p {
     font-size: 20px;
 }
 
+#myButton {
+    background-color: aqua;
+    border: black;
+    padding: 5px;
+    border-radius: 4px;
+}
